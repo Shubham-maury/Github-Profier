@@ -1,0 +1,14 @@
+.card { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+}
+.user-info h2 {
+    text-align: center;
+    margin-top: 0;
+}
+.user-info p {
+    text-align: center; 
+}

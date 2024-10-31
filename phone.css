@@ -1,0 +1,17 @@
+input{
+    width: 300px;
+}
+.card { 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    max-width: 333px; 
+}
+.user-info { 
+    margin-left: 0rem;
+}
+.user-info h2 {
+    text-align: center;
+    margin-top: 0;
+}
